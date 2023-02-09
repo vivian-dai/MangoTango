@@ -1,5 +1,5 @@
 # MangoTango
-MangoTango was created because CS 136L is a wonderful course!
+MangoTango was created because CS 136L is a wonderful course! For context, check the [Reddit post](https://www.reddit.com/r/uwaterloo/comments/10xyr56/download_mangotango_on_vscode/)
 ## Credits
 Colours chosen by the ribbon currently tied around my goose plush
 ## Samples

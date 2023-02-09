@@ -4,14 +4,18 @@ All notable changes to the "mangotango" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 0.0.2 - 2023-02-09
+## 0.0.3 - 2023-02-09
+### Added
+* Changelog
+
+## 0.0.2 - 2023-02-08
 ### Changed
 * README.md file
 
-## 0.0.1 - 2023-02-09
+## 0.0.1 - 2023-02-08
 ### Added
 * Icon
 
-## 0.0.0 - 2023-02-09
+## 0.0.0 - 2023-02-08
 ### Added
 * Theme

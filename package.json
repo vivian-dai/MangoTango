@@ -21,6 +21,11 @@
                 "label": "MangoTango",
                 "uiTheme": "vs-dark",
                 "path": "./themes/MangoTango-color-theme.json"
+            },
+            {
+                "label": "MangoTango Pastel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MangoTango-pastel-theme.json"
             }
         ]
     }

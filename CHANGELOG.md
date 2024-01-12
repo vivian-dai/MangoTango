@@ -4,6 +4,12 @@ All notable changes to the "mangotango" extension will be documented in this fil
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.0.0 - 2024-01-11
+### Added
+* MangoTango pastel theme as per request from [@xuserena12](https://github.com/xuserena12) :P enjoy
+### Fixed
+* Me not knowing 0.x.x meant not in production yet....
+
 ## 0.0.5 - 2023-02-09
 ### Changed
 * Added Reddit post to README

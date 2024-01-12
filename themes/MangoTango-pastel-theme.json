@@ -20,6 +20,12 @@
         "editorGroupHeader.tabsBackground": "#ffcccc",
         "statusBar.background": "#ffdfab",
         "statusBar.foreground": "#690808",
-		"editorOverviewRuler.background": "#ffca9c"
-    }
+		"editorOverviewRuler.background": "#ffca9c",
+        "dropdown.background": "#074000",
+        "dropdown.border": "#e08760",
+        "dropdown.foreground": "#e08760"
+    },
+    "tokenColors": [
+        
+    ]
 }
